@@ -1,0 +1,19 @@
+Assignment 8
+Pick your favorite gene and your favorite species available on ChopChop. Find target
+sites you can use to knockout this gene.
+In a text file on your GitHub report the following:
+1.) Species
+2.) Gene
+3.) Rank 1 target sequence and genomic location
+4.) One primer pair that you can use to check the crispant genotypes.
+Report sequence and coordinates for left and right primers
+5.) If you knock out this gene, what is your expected phenotype?
+
+
+
+1. Canis familiaris (CanFam4)
+2. TYR
+3. TTTATGCGATGGAACTCCAGAGG chr21:10974282
+4. left primer: chr21:10974439-10974461	GATGGATGCTTCCTTCAATTTC		
+   right primer chr21:10974193-1097421 TAGACTCAGGCAGAATTCCACA	
+5. If you knock out the TYR gene this results in no pigmentation in the species. 
